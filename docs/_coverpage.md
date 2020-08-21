@@ -1,12 +1,8 @@
-![logo](_media/icon.svg)
+![logo](_media/logo-sociolla.svg)
 
-# docsify <small>4.11.4</small>
+#  Warehouse Management <small>1.0.0</small>
 
-> A magical documentation site generator.
+> Application Documentation
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[Getting Started](#sociolla_warehouse_management)

@@ -21,18 +21,15 @@ if (isSSR) {
   </body>
   </html>`,
     config: {
-      name: 'docsify',
+      name: 'wms',
       repo: 'docsifyjs/docsify',
-      basePath: 'https://docsify.js.org/',
+      basePath: 'https://bitbucket.org/spm-sociolla/',
       loadNavbar: true,
       loadSidebar: true,
       subMaxLevel: 3,
       auto2top: true,
       alias: {
-        '/de-de/changelog': '/changelog',
-        '/zh-cn/changelog': '/changelog',
-        '/changelog':
-          'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG'
+        '/changelog':'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG'
       }
     },
     path: './'

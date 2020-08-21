@@ -1,7 +1,6 @@
 import { merge, hyphenate, isPrimitive, hasOwn } from './util/core';
 
 const currentScript = document.currentScript;
-
 export default function(vm) {
   const config = merge(
     {
@@ -15,7 +14,7 @@ export default function(vm) {
       coverpage: '',
       basePath: '',
       auto2top: false,
-      name: '',
+      name: 'wms',
       themeColor: '',
       nameLink: window.location.pathname,
       autoHeader: false,

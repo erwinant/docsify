@@ -35,7 +35,6 @@ export function corner(data, cornerExternalLinkTarge) {
  */
 export function main(config) {
   const name = config.name ? config.name : '';
-
   const aside =
     '<button class="sidebar-toggle" aria-label="Menu">' +
     '<div class="sidebar-toggle-button">' +

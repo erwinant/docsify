@@ -1,38 +1,20 @@
-## docsify
+## sociolla_warehouse_management
 
-> A magical documentation site generator.
+> An information system to help managing warehouse and resources
 
 ## What it is
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+A warehouse management system (WMS) is a software application designed to support and optimize warehouse functionality and distribution center management. These systems facilitate management in their daily planning, organizing, staffing, directing, and controlling the utilization of available resources, to move and store materials into, within, and out of a warehouse, while supporting staff in the performance of material movement and storage in and around a warehouse.
 
 See the [Quick start](quickstart.md) guide for more details.
 
 ## Features
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
-
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Gitter chat room](https://gitter.im/docsifyjs/Lobby).
-
-## Special Thanks
-
-_Vercel_ has given us a Pro account.
-
-<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="_media/vercel_logo.svg" width="100px"></a>
+- Inbound checking
+- Tracking putaway, picking, and packing
+- Optimizing warehouse space
+- Monitoring warehouse activity
+- Informative report
+- Expected labor productivity rates by function or activity, e.g., cases picked per man-hour, etc.
+- Provide real time availability stock (API)
+- Less paper to save the earth!

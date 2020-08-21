@@ -1,18 +1,15 @@
 - Getting started
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Create User](quickstart.md)
+  - [Maintain User](more-pages.md)
+  - [Navigation](custom-navbar.md)
 
-- Customization
+- Dashboard [Summary](dashboard.md)
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+- Inbound
+
+  - [Inventory](inbound.md)
+
 
 - Guide
 

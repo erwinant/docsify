@@ -4,22 +4,24 @@
   - [Maintain User](more-pages.md)
   - [Navigation](custom-navbar.md)
 
-- Dashboard [Summary](dashboard.md)
+- Dashboard
+  - [Summary](dashboard.md)
 
 - Inbound
-
   - [Inventory](inbound.md)
+  - [Putaway](putaway.md)
 
+- Wave
+  - [Create Wave](wavecreate.md)
+  - [Monitoring Wave](wavemonitoring.md)
+  - [Task Wave](wavetask.md)
 
-- Guide
+- Cycle Count
+  - [Create Cycle Count](cyclecountcreate.md)
+  - [Monitoring Cycle Count](cyclecountmonitoring.md)
+  - [Task Cycle Count](cyclecounttask.md)
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- Intra Transfer
+  - [Create Intra Transfer](intracreate.md)
+  - [Monitoring Intra Transfer](intramonitoring.md)
+  - [Task Intra Transfer](intratask.md)

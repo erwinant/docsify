@@ -18,7 +18,7 @@ Set `coverpage` to **true**, and create a `_coverpage.md`:
 ```
 
 ```markdown
-<!-- _coverpage.md -->
+<!-- _coverpage.md test -->
 
 ![logo](_media/icon.svg)
 
